@@ -1,0 +1,9 @@
+{
+"akira" : {"name":"Akira Maeda", "age":"25", "gender":"male"},
+"ami" : {"name":"Ami Ohsugi", "age":"28", "gender":"female"},
+"iyo" : {"name":"Iyo Koda", "age":"28", "gender":"female"},
+"kenichiro" : {"name":"Kenichiro Taniguchi", "age":"22", "gender":"male"},
+"seiya" : {"name":"Seiya Tamura", "age":"20", "gender":"male"},
+"shinpei" : {"name":"Shinpei Ohsugi", "age":"28", "gender":"male"},
+"migitama" : {"name":"Migitama chan", "age":"30", "gender":"male"}
+}
